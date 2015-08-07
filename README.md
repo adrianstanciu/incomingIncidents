@@ -6,8 +6,8 @@ date: 06/08/2015
 Simple Shiny app for predicting number of incidents based on a history of values.
 
 The source code can be found in the current repository:
-server.R
-ui.R
+*  [server.R](./server.R)
+* [ui.R](./ui.R)
 
 
 Motivation
