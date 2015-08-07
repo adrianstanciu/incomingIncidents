@@ -56,4 +56,4 @@ Code of server treatment
 Results in graphical format
 ========================================================
 
-![plot of chunk unnamed-chunk-2](PredictIncomingIncidents-figure/unnamed-chunk-2-1.png) 
+![figure](./graph/figure.png) 
